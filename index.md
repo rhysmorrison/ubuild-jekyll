@@ -29,8 +29,8 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    alt_text: Portrait Image of Rhys Morrison
+  background_image: "/uploads/2020/06/17/img_4936.PNG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
